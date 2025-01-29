@@ -17,9 +17,23 @@ Here are some of my featured projects:
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: stretch; margin-top: 20px;">
   <!-- First Project -->
-  <a href="https://cmsc-vcu.github.io/cmsc427-sp2025-hw1-haleyvivian16/" style="text-decoration: none; border: 1px solid #ccc; padding: 10px; border-radius: 10px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <div style="border: 1px solid #ccc; padding: 10px; border-radius: 10px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <img src="assets/hw1.png" alt="First Project Thumbnail" style="width: 100%; border-radius: 10px; max-height: 150px; object-fit: cover;">
     <h3 style="margin-top: 10px;">First Project Title</h3>
-    <p>A brief description of the first project.</p>
-  </a>
+    <p>A brief description of the first project. <a href="https://cmsc-vcu.github.io/cmsc427-sp2025-hw1-haleyvivian16/" style="color: blue;">Check it out here!</a></p>
+  </div>
+  
+  <!-- Second Project -->
+  <div style="border: 1px solid #ccc; padding: 10px; border-radius: 10px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="assets/hw2.png" alt="Second Project Thumbnail" style="width: 100%; border-radius: 10px; max-height: 150px; object-fit: cover;">
+    <h3 style="margin-top: 10px;">Second Project Title</h3>
+    <p>A brief description of the second project. <a href="https://cmsc-vcu.github.io/cmsc427-sp2025-hw2-haleyvivian16/" style="color: blue;">Check it out here!</a></p>
+  </div>
+  
+  <!-- Third Project -->
+  <div style="border: 1px solid #ccc; padding: 10px; border-radius: 10px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="assets/hw3.png" alt="Third Project Thumbnail" style="width: 100%; border-radius: 10px; max-height: 150px; object-fit: cover;">
+    <h3 style="margin-top: 10px;">Third Project Title</h3>
+    <p>A brief description of the third project. <a href="https://cmsc-vcu.github.io/cmsc427-sp2025-hw3-haleyvivian16/" style="color: blue;">Check it out here!</a></p>
+  </div>
 </div>

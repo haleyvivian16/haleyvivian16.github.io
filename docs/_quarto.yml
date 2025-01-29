@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: ./  # Ensure the output goes to the root of 'docs' folder
+  output-dir: .  # Ensure the output goes to the root of 'docs' folder
 
 website:
   title: "Haley Vivian Portfolio"

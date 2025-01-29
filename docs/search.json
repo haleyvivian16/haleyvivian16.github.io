@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Haley’s Portfolio",
+    "section": "",
+    "text": "Home\nWelcome to my portfolio! Scroll down to learn more about me and my projects.\n\n\nAbout\nI am Haley, a computer science student passionate about data analytics and software development. This portfolio showcases some of my favorite projects.\n\n\nPortfolio\nHere are some of my featured projects:\n\n\n\n&lt;img src=\"assets/hw1.png\" alt=\"First Project Thumbnail\" style=\"width: 100%; border-radius: 10px; max-height: 150px; object-fit: cover;\"&gt;\n&lt;h3 style=\"margin-top: 10px;\"&gt;First Project Title&lt;/h3&gt;\n&lt;p&gt;A brief description of the first project. &lt;a href=\"https://cmsc-vcu.github.io/cmsc427-sp2025-hw1-haleyvivian16/\" style=\"color: blue;\"&gt;Check it out here!&lt;/a&gt;&lt;/p&gt;\n\n\n\n&lt;img src=\"assets/hw2.png\" alt=\"Second Project Thumbnail\" style=\"width: 100%; border-radius: 10px; max-height: 150px; object-fit: cover;\"&gt;\n&lt;h3 style=\"margin-top: 10px;\"&gt;Second Project Title&lt;/h3&gt;\n&lt;p&gt;A brief description of the second project. &lt;a href=\"https://cmsc-vcu.github.io/cmsc427-sp2025-hw2-haleyvivian16/\" style=\"color: blue;\"&gt;Check it out here!&lt;/a&gt;&lt;/p&gt;\n\n\n\n&lt;img src=\"assets/hw3.png\" alt=\"Third Project Thumbnail\" style=\"width: 100%; border-radius: 10px; max-height: 150px; object-fit: cover;\"&gt;\n&lt;h3 style=\"margin-top: 10px;\"&gt;Third Project Title&lt;/h3&gt;\n&lt;p&gt;A brief description of the third project. &lt;a href=\"https://cmsc-vcu.github.io/cmsc427-sp2025-hw3-haleyvivian16/\" style=\"color: blue;\"&gt;Check it out here!&lt;/a&gt;&lt;/p&gt;"
+  }
+]
