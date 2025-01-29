@@ -1,0 +1,14 @@
+project:
+  type: website
+output-dir: docs
+
+website:
+  title: "Haley Vivian Portfolio"
+  navbar:
+    right:
+      - text: "Home"
+        href: "#home"
+      - text: "About"
+        href: "#about"
+      - text: "Portfolio"
+        href: "#portfolio"

@@ -1,0 +1,16 @@
+---
+title: "Haley's Portfolio"
+format:
+  html:
+    theme: default
+    toc: false
+---
+
+# Home {#home}
+Welcome to my portfolio! Scroll down to learn more about me and my projects.
+
+# About {#about}
+I am Haley, a computer science student passionate about data analytics and software development. This portfolio showcases some of my favorite projects.
+
+# Portfolio {#portfolio}
+Here are some of my featured projects:
